@@ -1,0 +1,8 @@
+
+*.pyc
+*.pyo
+*.vec
+*.json
+
+pretrained-models/
+lightning_logs/
